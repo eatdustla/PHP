@@ -11,7 +11,7 @@
     <header>
       <a href="#" class="logo"><img src="../htdocs/images/logo.png"></a>
       <ul>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="dropdown">
           <a href="#">Category</a>
           <div class="dropdown-content">
